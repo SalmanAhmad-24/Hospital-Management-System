@@ -23,6 +23,8 @@ Name : John Doe
 Disease : Fever
 Month : January
 Ward : General
+
+
 *******-------------*********
 Details of 2 patient
 Name : Jane Smith
